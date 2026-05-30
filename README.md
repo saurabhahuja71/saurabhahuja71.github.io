@@ -2,8 +2,8 @@
 
 # Hi, I’m Saurabh Ahuja 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/s1saurabh?label=Follow&style=social)](https://github.com/s1saurabh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/s1saurabh)
+[![GitHub followers](https://img.shields.io/github/followers/saurabhahuja71?label=Follow&style=social)](https://github.com/saurabhahuja71)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabhahuja71)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:s101saurabh@gmail.com)
 
 **Principal Member of Technical Staff · Cloud & Infrastructure · Open Source Contributor**

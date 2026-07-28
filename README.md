@@ -1,4 +1,4 @@
-![Saurabh Ahuja](SaurabhAhuja.jpg)
+![Saurabh Ahuja](SaurabhLatest.jpg)
 
 # Hi, I’m Saurabh Ahuja 👋
 

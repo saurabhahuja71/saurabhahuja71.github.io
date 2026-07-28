@@ -81,8 +81,6 @@ Bangalore, India
 
 ---
 
----
-
 ## 🎓 Learning labs for students & new engineers
 
 I maintain a curated set of **practice repositories** (Go, Python, Java/Helidon, Kubernetes, Terraform, CI/CD, AI/MCP) aimed at college students and early-career engineers.

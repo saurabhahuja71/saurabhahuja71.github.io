@@ -81,6 +81,16 @@ Bangalore, India
 
 ---
 
+---
+
+## 🎓 Learning labs for students & new engineers
+
+I maintain a curated set of **practice repositories** (Go, Python, Java/Helidon, Kubernetes, Terraform, CI/CD, AI/MCP) aimed at college students and early-career engineers.
+
+**Start here → [learning-path](https://github.com/saurabhahuja71/learning-path)**
+
+Tracks include workshops, small APIs, Helidon microservices labs, and cloud/IaC samples. Labs are being improved with clearer READMEs over time.
+
 ## 🤝 Collaboration Philosophy
 
 I collaborate on projects that value:

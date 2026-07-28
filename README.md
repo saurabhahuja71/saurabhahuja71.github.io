@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I am a Principal Member of Technical Staff with 15+ years of experience designing,
+I am a Principal Engineer with 15+ years of experience designing,
 building, and operating reliable infrastructure across public cloud, private cloud,
 and on-prem environments.
 

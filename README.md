@@ -1,5 +1,3 @@
-![Saurabh Ahuja](SaurabhLatest.jpg)
-
 # Hi, I’m Saurabh Ahuja 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/saurabhahuja71?label=Follow&style=social)](https://github.com/saurabhahuja71)

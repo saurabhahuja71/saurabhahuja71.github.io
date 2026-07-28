@@ -85,7 +85,7 @@ I maintain a curated set of **practice repositories** (Go, Python, Java/Helidon,
 
 **Start here → [learning-path](https://github.com/saurabhahuja71/learning-path)**
 
-Includes an **[Oracle Linux & systems](https://github.com/saurabhahuja71/learning-path#oracle-linux--systems)** track (official OL tutorials, UEK, containers) plus personal labs such as QEMU-on-OL9 and Podman VPN—aligned with active work on Oracle open-source container and database projects.
+Includes an **[Oracle Linux & systems](https://github.com/saurabhahuja71/learning-path#oracle-linux--systems)** track and an **[organizations review](https://github.com/saurabhahuja71/learning-path#organizations-review--all-github-orgs)** (Oracle + personal orgs) (official OL tutorials, UEK, containers) plus personal labs such as QEMU-on-OL9 and Podman VPN—aligned with active work on Oracle open-source container and database projects.
 
 Tracks include workshops, small APIs, Helidon microservices labs, and cloud/IaC samples. Labs are being improved with clearer READMEs over time.
 

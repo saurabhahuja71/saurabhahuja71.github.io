@@ -1,0 +1,24 @@
+# Publish profile README as GitLab Pages at https://saurabhahuja711.gitlab.io
+image: pandoc/core:latest
+
+pages:
+  stage: deploy
+  script:
+    - mkdir -p public
+    - cp assets/style.css public/style.css
+    - |
+      pandoc README.md \
+        --from=gfm \
+        --to=html5 \
+        --standalone \
+        --css=style.css \
+        --metadata title="Saurabh Ahuja" \
+        --include-before-body=assets/before.html \
+        --include-after-body=assets/after.html \
+        --output=public/index.html
+  pages: true
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: $CI_COMMIT_BRANCH == "main"

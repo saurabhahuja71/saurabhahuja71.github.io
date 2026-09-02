@@ -1,5 +1,7 @@
 # Publish profile README as GitLab Pages at https://saurabhahuja711.gitlab.io
-image: pandoc/core:latest
+image:
+  name: pandoc/core:latest
+  entrypoint: [""]
 
 pages:
   stage: deploy
@@ -16,6 +18,8 @@ pages:
         --include-before-body=assets/before.html \
         --include-after-body=assets/after.html \
         --output=public/index.html
+    - test -f public/index.html
+    - ls -la public
   pages: true
   artifacts:
     paths:

@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:saurabhahuja71@gmail.com)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:saurabh@onenova.in)
 
-**Principal Engineer · Cloud & Infrastructure · Open Source Contributor**
+**Principal Platform Engineer · Cloud-Native Infrastructure · Open Source Contributor**
 
 🌐 Personal website: [https://www.onenova.in](https://www.onenova.in)
 
@@ -16,37 +16,35 @@
 
 ## 👨‍💻 About Me
 
-I am a Principal Engineer with 15+ years of experience designing,
-building, and operating reliable infrastructure across public cloud, private cloud,
-and on-prem environments.
+I am a Principal Platform Engineer with 16+ years of experience building cloud-native
+platforms, Kubernetes operators, identity-aware infrastructure, and secure deployment
+pipelines. My work combines Go, Kubernetes, OCI, Terraform, Ansible, and CI/CD with
+enterprise identity systems such as Oracle Identity Cloud Service (IDCS), OAuth2,
+SAML, and role-based access control.
 
-My work focuses on:
-- building boring but dependable systems,
-- reducing operational and lifecycle risk,
-- improving maintainability and clarity,
-- and contributing responsibly to open source within governed ecosystems.
-
-I value long-term stability, clear boundaries, and sustainable engineering practices
-over short-term speed or hype.
+I focus on secure platform services, Kubernetes automation, and infrastructure that
+integrates identity, authorization, and cloud-security best practices. I value
+operational clarity, maintainability, mentoring, and disciplined engineering across
+the full system lifecycle.
 
 ---
 
 ## 🏢 Current Role
 
-**Principal Member of Technical Staff**  
-Oracle · RACPACK MAA Solution Engineering  
+**Principal Data Systems Engineer**  
+Oracle India · Oracle Database platforms and Kubernetes operators  
 Bangalore, India
 
 ---
 
 ## 🧠 Areas of Focus
 
-- Cloud & Infrastructure Engineering  
-- Kubernetes & Container Platforms  
-- Operator & Automation Design  
-- Reliability, Observability, and Operations  
-- CI/CD and Infrastructure as Code  
-- Open Source contribution with strong governance and review discipline  
+- Cloud-native platform engineering
+- Kubernetes operators, CRDs, and reconciliation controllers
+- Identity-aware infrastructure, OAuth2, SAML, and RBAC
+- Secure CI/CD, infrastructure as code, and release automation
+- Oracle Database platforms, RAC, 23ai, True Cache, and Data Guard
+- Open-source engineering and official Oracle technical documentation
 
 ---
 
@@ -57,10 +55,12 @@ Bangalore, India
 - Python
 - Shell
 - Java
+- C/C++
 
 ### Infrastructure & Platforms
 - Kubernetes
 - Docker / Podman
+- OpenShift
 - Terraform
 - Ansible
 - Linux (Oracle Linux, RHEL, Ubuntu)
@@ -68,20 +68,29 @@ Bangalore, India
 ### Cloud
 - Oracle Cloud Infrastructure (OCI)
 - AWS (selected services)
+- Azure
 
 ### Databases
 - Oracle Database (RAC, 23ai, Sharding)
 - MySQL
 - Redis
 
+### Identity & security
+- Oracle Identity Cloud Service (IDCS)
+- OAuth2, SAML, RBAC, Kubernetes Secrets
+- Oracle TDE wallets, TCPS, TLS/SSL, and OpenSSL
+- Fortify, Anchore, Burp Suite, and SonarQube
+
 ---
 
-## 🌱 Currently Deepening
+## 📚 Publications & technical contributions
 
-- Kubernetes operator patterns
-- Go for infrastructure tooling
-- API design for automation systems
-- Reliability-focused system design
+- Contributor, *Deploying OKE on Compute Cloud @ Customer / PCA*, Oracle Cloud
+  Infrastructure technical whitepaper (2026)
+- Author / technical contributor, *Oracle Real Application Clusters Installation
+  Guide — Podman / Oracle Linux*, official Oracle documentation
+- Author / technical contributor, *Installing and Configuring Oracle RAC on Oracle
+  Linux Cloud Native Environment (OLCNE)*, Oracle Database 19c documentation
 
 ---
 

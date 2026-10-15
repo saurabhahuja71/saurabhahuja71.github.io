@@ -16,16 +16,21 @@
 
 ## 👨‍💻 About Me
 
-I am a Principal Platform Engineer with 16+ years of experience building cloud-native
-platforms, Kubernetes operators, identity-aware infrastructure, and secure deployment
-pipelines. My work combines Go, Kubernetes, OCI, Terraform, Ansible, and CI/CD with
-enterprise identity systems such as Oracle Identity Cloud Service (IDCS), OAuth2,
-SAML, and role-based access control.
-
-I focus on secure platform services, Kubernetes automation, and infrastructure that
-integrates identity, authorization, and cloud-security best practices. I value
-operational clarity, maintainability, mentoring, and disciplined engineering across
-the full system lifecycle.
+- Principal Platform Engineer with 16+ years of experience building cloud-native
+  platforms, Kubernetes operators, identity-aware infrastructure, and secure
+  deployment pipelines. Strong expertise in Go, Kubernetes, OCI, Terraform, Ansible,
+  and CI/CD with hands-on experience supporting enterprise identity systems using
+  Oracle Identity Cloud Service (IDCS), OAuth2, SAML, and role-based access control.
+- Contributed to secure deployment patterns and security architecture for cloud-native
+  Oracle Database services running on Kubernetes, including secure identity
+  integration, secret management, certificate handling, and least-privilege access.
+- Currently a Principal Data Systems Engineer at Oracle India, developing Kubernetes
+  operators and infrastructure automation for Oracle Database platforms, contributing
+  to Oracle open-source initiatives, and authoring official Oracle product
+  documentation and cloud architecture whitepapers.
+- Recognized for reducing operational risk, improving system clarity, mentoring
+  engineers, and applying disciplined engineering practices across the full system
+  lifecycle.
 
 ---
 
@@ -92,12 +97,14 @@ Bangalore, India
 
 ## 📚 Publications & technical contributions
 
-- Contributor, *Deploying OKE on Compute Cloud @ Customer / PCA*, Oracle Cloud
-  Infrastructure technical whitepaper (2026)
-- Author / technical contributor, *Oracle Real Application Clusters Installation
-  Guide — Podman / Oracle Linux*, official Oracle documentation
-- Author / technical contributor, *Installing and Configuring Oracle RAC on Oracle
-  Linux Cloud Native Environment (OLCNE)*, Oracle Database 19c documentation
+- Contributor, [*Deploying OKE on Compute Cloud @ Customer / PCA*](https://www.oracle.com/a/ocom/docs/cloud/deploying-oke-on-compute-cloud@customer-or-pca.pdf),
+  Oracle Cloud Infrastructure technical whitepaper (2026)
+- Author / technical contributor, [*Oracle Real Application Clusters Installation
+  Guide — Podman / Oracle Linux*](https://docs.oracle.com/en/database/oracle/oracle-database/26/racpd/oracle-real-application-clusters-installation-guide-podman-oracle-linux.pdf),
+  official Oracle documentation
+- Author / technical contributor, [*Installing and Configuring Oracle RAC on Oracle
+  Linux Cloud Native Environment (OLCNE)*](https://docs.oracle.com/en/database/oracle/oracle-database/19/rackb/install-configure-rac-olcne.html),
+  Oracle Database 19c documentation
 
 ---
 

@@ -24,7 +24,7 @@
 - Contributed to secure deployment patterns and security architecture for cloud-native
   Oracle Database services running on Kubernetes, including secure identity
   integration, secret management, certificate handling, and least-privilege access.
-- Currently a Principal Data Systems Engineer at Oracle India, developing Kubernetes
+- Currently a Sr Principal Data Systems Engineer at Oracle India, developing Kubernetes
   operators and infrastructure automation for Oracle Database platforms, contributing
   to Oracle open-source initiatives, and authoring official Oracle product
   documentation and cloud architecture whitepapers.

@@ -31,7 +31,7 @@ the full system lifecycle.
 
 ## 🏢 Current Role
 
-**Principal Data Systems Engineer**  
+**Sr Principal Data Systems Engineer**  
 Oracle India · Oracle Database platforms and Kubernetes operators  
 Bangalore, India
 
@@ -64,16 +64,23 @@ Bangalore, India
 - Terraform
 - Ansible
 - Linux (Oracle Linux, RHEL, Ubuntu)
+- TeamCity
+- GitLab CI
+- Jenkins CI/CD
 
 ### Cloud
 - Oracle Cloud Infrastructure (OCI)
-- AWS (selected services)
+- AWS
 - Azure
 
 ### Databases
-- Oracle Database (RAC, 23ai, Sharding)
+- Oracle Database (RAC, SIDB, True Cache, Data Guard, 23ai, 19c)
 - MySQL
 - Redis
+
+### Observability & code quality
+- Prometheus and Grafana
+- SonarQube, Fortify, Anchore, and Burp Suite
 
 ### Identity & security
 - Oracle Identity Cloud Service (IDCS)
@@ -94,79 +101,38 @@ Bangalore, India
 
 ---
 
-## 🎓 Learning labs for students & new engineers
+## 💼 Professional experience
 
-I maintain a curated set of **practice repositories** (Go, Python, Java/Helidon, Kubernetes, Terraform, CI/CD, AI/MCP) aimed at college students and early-career engineers.
+### Oracle India Pvt. Ltd. — Sr Principal Data Systems Engineer
+*October 2017 – Present · Bangalore, India*
 
-**Start here → [learning-path](https://github.com/saurabhahuja71/learning-path)**
+- Design and maintain Go-based Kubernetes operators, CRDs, and reconciliation
+  controllers for Oracle Database platforms, including Single Instance, RAC, DBCS,
+  Oracle Restart, True Cache, and Private Agent Factory.
+- Build end-to-end automation for provisioning, scaling, failover, upgrades, and
+  release-update patching of Oracle Database on Kubernetes.
+- Implement security controls using Kubernetes Secrets, Oracle TDE wallets, TCPS,
+  OpenSSL certificate management, and encrypted configuration handling.
+- Build Ansible automation for distributed Oracle RAC provisioning and Terraform
+  modules for OKE with secure RBAC and identity-aware workflows.
+- Maintain secure CI/CD workflows using IDCS, OAuth2, SAML, and enterprise
+  authentication and authorization processes.
+- Contribute to Oracle open-source projects, official documentation, and cloud
+  architecture whitepapers; mentor engineers and participate in technical hiring.
 
-Includes an **[Oracle Linux & systems](https://github.com/saurabhahuja71/learning-path#oracle-linux--systems)** track and an **[organizations review](https://github.com/saurabhahuja71/learning-path#organizations-review--all-github-orgs)** (Oracle + personal orgs) (official OL tutorials, UEK, containers) plus personal labs such as QEMU-on-OL9 and Podman VPN—aligned with active work on Oracle open-source container and database projects.
+### Earlier experience
 
-Tracks include workshops, small APIs, Helidon microservices labs, and cloud/IaC samples. Labs are being improved with clearer READMEs over time.
-
-## 🤝 Collaboration Philosophy
-
-I collaborate on projects that value:
-- clear ownership and governance,
-- thoughtful reviews over rushed changes,
-- long-term maintainability,
-- respectful, low-noise communication.
-
-I prefer contributing as a reviewer, stabilizer, or documentation and quality improver
-rather than high-visibility evangelism.
-
----
-
-## 📂 Selected Open Source Work (Oracle OSS)
-
-- **Oracle Database Operator**  
-  https://operatorhub.io/operator/oracle-database-operator
-
-- **oracle/docker-images**  
-  Official Oracle Docker images  
-  https://github.com/oracle/docker-images
-
-- **oracle/oracle-database-operator**  
-  Kubernetes operator for Oracle Database  
-  https://github.com/oracle/oracle-database-operator
-
-- **oracle/db-sharding**  
-  Oracle Database Sharding reference implementations  
-  https://github.com/oracle/db-sharding
----
-
-## 📚 Product Documentation & Technical Publications
-
-In addition to engineering and open-source work, I contribute to official Oracle
-product documentation and cloud architecture guidance.
-
-- **Oracle Real Application Clusters Installation Guide – Podman / Oracle Linux**  
-  Official Oracle Database documentation  
-  https://docs.oracle.com/en/database/oracle/oracle-database/26/racpd/oracle-real-application-clusters-installation-guide-podman-oracle-linux.pdf
-
-- **Installing and Configuring Oracle RAC on Oracle Linux Cloud Native Environment (OLCNE)**  
-  Oracle Database 19c documentation  
-  https://docs.oracle.com/en/database/oracle/oracle-database/19/rackb/install-configure-rac-olcne.html
-
-- **Deploying Oracle Kubernetes Engine (OKE) on Compute Cloud @ Customer / PCA**  
-  Oracle Cloud Infrastructure technical whitepaper  
-  https://www.oracle.com/a/ocom/docs/cloud/deploying-oke-on-compute-cloud@customer-or-pca.pdf
-
-My contributions focus on deployment architecture, lifecycle management,
-containerized database patterns, and operational reliability.
----
+- **Optum Global Solutions (India) Pvt. Ltd.** — Senior Engineer, Build and Release
+  *(February 2016 – September 2017)*
+- **Avesta Computer Pvt. Ltd.** — Software Engineer *(June 2014 – February 2016)*
+- **Aptean Software India Pvt. Ltd.** — Configuration Management Engineer
+  *(April 2013 – May 2014)*
+- **Dell International Services India Pvt. Ltd.** — Application Management Analyst
+  *(March 2011 – March 2013)*
+- **Accenture Services Pvt. Ltd.** — Software Engineer *(December 2009 – March 2011)*
 
 ## 🎓 Education
 
 **B.E. in Information Technology**  
 Punjab Engineering College (PEC), Chandigarh  
-2005 – 2009
-
----
-
-## 🧭 Engineering Ethos
-
-I believe good software engineering is quiet, predictable, and kind to the people
-who will maintain it years later.
-
-> *“Strive not to be a success, but rather to be of value.”* — Albert Einstein
+2005 – 2009 · CGPA: 7.9

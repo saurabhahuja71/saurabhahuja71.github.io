@@ -10,6 +10,8 @@
 
 🌐 Personal website: [https://www.onenova.in](https://www.onenova.in)
 
+📄 Resume: [PDF](resume/Saurabh-Ahuja-Latest.pdf) · [DOCX](resume/Saurabh-Ahuja-Latest.docx)
+
 ---
 
 ## 👨‍💻 About Me

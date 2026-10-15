@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:saurabhahuja71@gmail.com)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:saurabh@onenova.in)
 
-**Principal Platform Engineer · Cloud-Native Infrastructure · Open Source Contributor**
+**Sr Principal Platform Engineer · Cloud-Native Infrastructure · Open Source Contributor**
 
 🌐 Personal website: [https://www.onenova.in](https://www.onenova.in)
 
@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-- Principal Platform Engineer with 16+ years of experience building cloud-native
+- Sr Principal Platform Engineer with 16+ years of experience building cloud-native
   platforms, Kubernetes operators, identity-aware infrastructure, and secure
   deployment pipelines. Strong expertise in Go, Kubernetes, OCI, Terraform, Ansible,
   and CI/CD with hands-on experience supporting enterprise identity systems using
